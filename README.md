@@ -47,3 +47,25 @@ var teenAgerStudent = from s in studentList
                       select s;
                       
 ```
+
+### OfType in Query Syntax
+
+Use OfType operator to filter the above collection based on each element's type
+
+
+
+```Csharp
+
+IList mixedList = new ArrayList();
+mixedList.Add(0);
+mixedList.Add("One");
+mixedList.Add("Two");
+mixedList.Add(3);
+mixedList.Add(new Student() { StudentID = 1, StudentName = "Bill" });
+
+var stringResult = from s in mixedList.OfType<string>()
+                select s;
+
+var intResult = from s in mixedList.OfType<int>()
+                select s;
+```
