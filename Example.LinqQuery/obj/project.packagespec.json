@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/Users/macbook/Ahmet Uyar/Project/Example.Linq/Example.Linq/Example.LinqQuery/Example.LinqQuery.csproj",
+    "projectUniqueName": "/Users/macbook/Ahmet Uyar/Project/LinqQ/Example.LinqQuery/Example.LinqQuery.csproj",
     "projectName": "Example.LinqQuery",
-    "projectPath": "/Users/macbook/Ahmet Uyar/Project/Example.Linq/Example.Linq/Example.LinqQuery/Example.LinqQuery.csproj",
-    "outputPath": "/Users/macbook/Ahmet Uyar/Project/Example.Linq/Example.Linq/Example.LinqQuery/obj/",
+    "projectPath": "/Users/macbook/Ahmet Uyar/Project/LinqQ/Example.LinqQuery/Example.LinqQuery.csproj",
+    "outputPath": "/Users/macbook/Ahmet Uyar/Project/LinqQ/Example.LinqQuery/obj/",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
       "netcoreapp3.0"

@@ -9,3 +9,14 @@
 /Users/macbook/Ahmet Uyar/Project/Example.Linq/Example.Linq/Example.LinqQuery/obj/Debug/netcoreapp3.0/Example.LinqQuery.AssemblyInfo.cs
 /Users/macbook/Ahmet Uyar/Project/Example.Linq/Example.Linq/Example.LinqQuery/obj/Debug/netcoreapp3.0/Example.LinqQuery.dll
 /Users/macbook/Ahmet Uyar/Project/Example.Linq/Example.Linq/Example.LinqQuery/obj/Debug/netcoreapp3.0/Example.LinqQuery.pdb
+/Users/macbook/Ahmet Uyar/Project/LinqQ/Example.LinqQuery/bin/Debug/netcoreapp3.0/Example.LinqQuery
+/Users/macbook/Ahmet Uyar/Project/LinqQ/Example.LinqQuery/bin/Debug/netcoreapp3.0/Example.LinqQuery.deps.json
+/Users/macbook/Ahmet Uyar/Project/LinqQ/Example.LinqQuery/bin/Debug/netcoreapp3.0/Example.LinqQuery.runtimeconfig.json
+/Users/macbook/Ahmet Uyar/Project/LinqQ/Example.LinqQuery/bin/Debug/netcoreapp3.0/Example.LinqQuery.runtimeconfig.dev.json
+/Users/macbook/Ahmet Uyar/Project/LinqQ/Example.LinqQuery/bin/Debug/netcoreapp3.0/Example.LinqQuery.dll
+/Users/macbook/Ahmet Uyar/Project/LinqQ/Example.LinqQuery/bin/Debug/netcoreapp3.0/Example.LinqQuery.pdb
+/Users/macbook/Ahmet Uyar/Project/LinqQ/Example.LinqQuery/obj/Debug/netcoreapp3.0/Example.LinqQuery.csprojAssemblyReference.cache
+/Users/macbook/Ahmet Uyar/Project/LinqQ/Example.LinqQuery/obj/Debug/netcoreapp3.0/Example.LinqQuery.AssemblyInfoInputs.cache
+/Users/macbook/Ahmet Uyar/Project/LinqQ/Example.LinqQuery/obj/Debug/netcoreapp3.0/Example.LinqQuery.AssemblyInfo.cs
+/Users/macbook/Ahmet Uyar/Project/LinqQ/Example.LinqQuery/obj/Debug/netcoreapp3.0/Example.LinqQuery.dll
+/Users/macbook/Ahmet Uyar/Project/LinqQ/Example.LinqQuery/obj/Debug/netcoreapp3.0/Example.LinqQuery.pdb

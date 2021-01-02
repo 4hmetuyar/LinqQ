@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/macbook/Ahmet Uyar/Project/Example.Linq/Example.Linq/Example.LinqQuery/Example.LinqQuery.csproj",
+      "projectUniqueName": "/Users/macbook/Ahmet Uyar/Project/LinqQ/Example.LinqQuery/Example.LinqQuery.csproj",
       "projectName": "Example.LinqQuery",
-      "projectPath": "/Users/macbook/Ahmet Uyar/Project/Example.Linq/Example.Linq/Example.LinqQuery/Example.LinqQuery.csproj",
+      "projectPath": "/Users/macbook/Ahmet Uyar/Project/LinqQ/Example.LinqQuery/Example.LinqQuery.csproj",
       "packagesPath": "/Users/macbook/.nuget/packages/",
-      "outputPath": "/Users/macbook/Ahmet Uyar/Project/Example.Linq/Example.Linq/Example.LinqQuery/obj/",
+      "outputPath": "/Users/macbook/Ahmet Uyar/Project/LinqQ/Example.LinqQuery/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/macbook/.config/NuGet/NuGet.Config"
