@@ -1,20 +1,12 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using Example.LinqQuery.Model;
 
 namespace Example.LinqQuery
 {
     public class WhereExample
     {
-        
-        private class Student{
-
-            public int StudentID { get; set; }
-            public string StudentName { get; set; }
-            public int Age { get; set; }
-	
-        }
-        
         /// <summary>
         /// The following query sample uses a Where operator to filter the students who is teen ager from the given collection (sequence).
         /// It uses a lambda expression as a predicate function.
