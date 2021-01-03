@@ -7,6 +7,10 @@ namespace Example.LinqQuery
 {
     public class OrderBy
     {
+        /// <summary>
+        /// A sorting operator arranges the elements of the collection in ascending or descending order.
+        /// LINQ includes following sorting operators.
+        /// </summary>
         public void Example()
         {
             // Student collection
