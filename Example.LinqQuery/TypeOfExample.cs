@@ -1,18 +1,13 @@
 using System;
 using System.Collections;
 using System.Linq;
+using Example.LinqQuery.Model;
 
 namespace Example.LinqQuery
 {
     public class TypeOfExample
     {
-        public class Student{
-
-            public int StudentID { get; set; }
-            public string StudentName { get; set; }
-            public int Age { get; set; }
-	
-        }
+     
         /// <summary>
         /// The OfType operator filters the collection based on the ability to cast an element in a collection to a specified type.
         /// </summary>
