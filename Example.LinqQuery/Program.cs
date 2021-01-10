@@ -8,12 +8,12 @@ namespace Example.LinqQuery
         /// <summary>
         /// This example is where
         /// </summary>
-        static readonly WhereExample WhereExample = new WhereExample();
+        static readonly Where WhereExample = new Where();
         
         /// <summary>
         /// This example is typeOf
         /// </summary>
-        static readonly TypeOfExample TypeOfExample  = new TypeOfExample();
+        static readonly TypeOf TypeOfExample  = new TypeOf();
         
         
         /// <summary>

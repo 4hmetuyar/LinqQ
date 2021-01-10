@@ -5,7 +5,7 @@ using Example.LinqQuery.Model;
 
 namespace Example.LinqQuery
 {
-    public class TypeOfExample
+    public class TypeOf
     {
      
         /// <summary>

@@ -32,8 +32,8 @@
         <e p="Select.cs" t="Include" />
         <e p="Sum.cs" t="Include" />
         <e p="ThenBy.cs" t="Include" />
-        <e p="TypeOfExample.cs" t="Include" />
-        <e p="WhereExample.cs" t="Include" />
+        <e p="TypeOf.cs" t="Include" />
+        <e p="Where.cs" t="Include" />
       </e>
       <e p="packages" t="ExcludeRecursive" />
     </e>

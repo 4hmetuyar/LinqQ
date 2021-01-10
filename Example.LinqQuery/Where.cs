@@ -5,7 +5,7 @@ using Example.LinqQuery.Model;
 
 namespace Example.LinqQuery
 {
-    public class WhereExample
+    public class Where
     {
         /// <summary>
         /// The following query sample uses a Where operator to filter the students who is teen ager from the given collection (sequence).
