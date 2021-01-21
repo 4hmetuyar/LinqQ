@@ -9,12 +9,27 @@
         <e p="Any.cs" t="Include" />
         <e p="Average.cs" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
+        <e p="Concat.cs" t="Include" />
         <e p="Contains.cs" t="Include" />
         <e p="Count.cs" t="Include" />
+        <e p="DefaultIfEmpty.cs" t="Include" />
+        <e p="Distinct.cs" t="Include" />
+        <e p="ElementAt.cs" t="Include" />
+        <e p="Empty.cs" t="Include" />
         <e p="Example.LinqQuery.csproj" t="IncludeRecursive" />
+        <e p="Except.cs" t="Include" />
+        <e p="FirstOrDefault.cs" t="Include" />
         <e p="GroupBy.cs" t="Include" />
         <e p="GroupJoin.cs" t="Include" />
+        <e p="Helper" t="Include">
+          <e p="StudentComparer.cs" t="Include" />
+        </e>
+        <e p="Intersect.cs" t="Include" />
+        <e p="Into.cs" t="Include" />
+        <e p="InvokeExpression.cs" t="Include" />
         <e p="Join.cs" t="Include" />
+        <e p="LastOrDefault.cs" t="Include" />
+        <e p="Let.cs" t="Include" />
         <e p="Max.cs" t="Include" />
         <e p="Model" t="Include">
           <e p="Standard.cs" t="Include" />
@@ -29,10 +44,18 @@
         </e>
         <e p="OrderBy.cs" t="Include" />
         <e p="Program.cs" t="Include" />
+        <e p="Queries.cs" t="Include" />
+        <e p="Range.cs" t="Include" />
+        <e p="Repeat.cs" t="Include" />
         <e p="Select.cs" t="Include" />
+        <e p="SequenceEqual.cs" t="Include" />
+        <e p="SingleOrDefault.cs" t="Include" />
+        <e p="SkipWhile.cs" t="Include" />
         <e p="Sum.cs" t="Include" />
+        <e p="TakeWhile.cs" t="Include" />
         <e p="ThenBy.cs" t="Include" />
         <e p="TypeOf.cs" t="Include" />
+        <e p="Union.cs" t="Include" />
         <e p="Where.cs" t="Include" />
       </e>
       <e p="packages" t="ExcludeRecursive" />
