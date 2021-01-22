@@ -1,8 +1,8 @@
 ## LINQ (Language Integrated Query)
 
-There are two basic ways to write a LINQ query to IEnumerable collection or IQueryable data sources.
+IEnumerable koleksiyonuna veya IQueryable veri kaynaklarına LINQ sorgusu yazmanın iki temel yolu vardır.
 
-### Query Syntax
+### 1.Query Syntax (Sorgu Sözdizimi)
 ```
 
 from <range variable> in <IEnumerable<T> or IQueryable<T> Collection>
@@ -48,9 +48,7 @@ var teenAgerStudent = from s in studentList
                       
 ```
 
-### OfType in Query Syntax
-
-Use OfType operator to filter the above collection based on each element's type
+### OfType in Query Syntax (Tipi bilinen Sorgu Sözdizimi)
 
 
 
@@ -69,3 +67,8 @@ var stringResult = from s in mixedList.OfType<string>()
 var intResult = from s in mixedList.OfType<int>()
                 select s;
 ```
+
+### Standard Query Operators (Standart Sorgu Operatörleri)
+#### 1.Where
+
+
