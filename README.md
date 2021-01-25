@@ -70,5 +70,8 @@ var intResult = from s in mixedList.OfType<int>()
 
 ### Standard Query Operators (Standart Sorgu Operatörleri)
 #### 1.Where
+#### 2.OrderBy
+#### 3.Join
+#### 4.Distinct
 
 
