@@ -75,5 +75,8 @@ var intResult = from s in mixedList.OfType<int>()
 #### 4.Distinct
 #### 5.Take & TakeWhile
 #### 6.Let
+#### 7.Sum
+#### 8.Max
+
 
 
