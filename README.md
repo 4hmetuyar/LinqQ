@@ -119,6 +119,21 @@ IList<Student> studentList = new List<Student>() {
 var distinctStudents = studentList.Distinct(new StudentComparer()); 
 ```
 #### 5.Take & TakeWhile
+```Csharp
+IList<string> strList = new List<string>(){ "One", "Two", "Three", "Four", "Five" };
+
+var newList = strList.Take(2);
+```
+
+```Csharp
+IList<string> strList = new List<string>() { 
+                                            "Three", 
+                                            "Four", 
+                                            "Five", 
+                                            "Hundred"  };
+
+var result = strList.TakeWhile(s => s.Length > 4);
+```
 #### 6.Let
 #### 7.Sum
 #### 8.Max
