@@ -136,6 +136,11 @@ var result = strList.TakeWhile(s => s.Length > 4);
 ```
 #### 6.Let
 #### 7.Sum
+```Csharp
+IList<int> intList = new List<int>() { 10, 21, 30, 45, 50, 87 };
+
+var total = intList.Sum();
+```
 #### 8.Max
 
 
