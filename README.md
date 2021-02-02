@@ -142,6 +142,11 @@ IList<int> intList = new List<int>() { 10, 21, 30, 45, 50, 87 };
 var total = intList.Sum();
 ```
 #### 8.Max
+```Csharp
+IList<int> intList = new List<int>() { 10, 21, 30, 45, 50, 87 };
+
+var largest = intList.Max();
+```
 
 
 
