@@ -160,6 +160,15 @@ IList<string> strList = new List<string>() {
 var result = strList.TakeWhile(s => s.Length > 4);
 ```
 #### 6.Let
+```Csharp
+var lowercaseStudentNames = from s in studentList
+                            let lowercaseStudentName = s.StudentName.ToLower()
+                                where lowercaseStudentName.StartsWith("r")
+                                select lowercaseStudentName;
+
+foreach (var name in lowercaseStudentNames)
+	Console.WriteLine(name);
+```
 #### 7.Sum
 ```Csharp
 IList<int> intList = new List<int>() { 10, 21, 30, 45, 50, 87 };
