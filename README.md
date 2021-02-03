@@ -187,5 +187,15 @@ var collection3 = collection1.Concat(collection2);
     Six 
 */
 ```
+#### 10.DefaultIfEmpty
+```Csharp
+IList<Student> emptyStudentList = new List<Student>();
+
+var newStudentList1 = studentList.DefaultIfEmpty(new Student());
+                 
+var newStudentList2 = studentList.DefaultIfEmpty(new Student(){ 
+                StudentID = 0, 
+                StudentName = "" });
+```
 
 
