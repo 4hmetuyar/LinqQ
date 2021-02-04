@@ -206,5 +206,12 @@ var newStudentList2 = studentList.DefaultIfEmpty(new Student(){
                 StudentID = 0, 
                 StudentName = "" });
 ```
+#### 11.Except
+```Csharp
+IList<string> strList1 = new List<string>(){"One", "Two", "Three", "Four", "Five" };
+IList<string> strList2 = new List<string>(){"Four", "Five", "Six", "Seven", "Eight"};
 
+var result = strList1.Except(strList2);
+/* Output : One Two Three */
+```
 
