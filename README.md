@@ -215,3 +215,11 @@ var result = strList1.Except(strList2);
 /* Output : One Two Three */
 ```
 
+#### 12. Intersect
+```Csharp
+IList<string> strList1 = new List<string>() { "One", "Two", "Three", "Four", "Five" };
+IList<string> strList2 = new List<string>() { "Four", "Five", "Six", "Seven", "Eight"};
+
+var result = strList1.Intersect(strList2);
+/* Output : Four Five */
+```
