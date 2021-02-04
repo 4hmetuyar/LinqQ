@@ -3,15 +3,14 @@
 IEnumerable koleksiyonuna veya IQueryable veri kaynaklarına LINQ sorgusu yazmanın iki temel yolu vardır.
 
 ### 1.Query Syntax (Sorgu Sözdizimi)
-```
-
+```Csharp
 from <range variable> in <IEnumerable<T> or IQueryable<T> Collection>
 
 <Standard Query Operators> <lambda expression>
 
 <select or groupBy operator> <result formation>
-
 ```
+
 ```Csharp
 // string collection
 IList<string> stringList = new List<string>() { 
