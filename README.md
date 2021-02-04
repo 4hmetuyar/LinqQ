@@ -223,3 +223,11 @@ IList<string> strList2 = new List<string>() { "Four", "Five", "Six", "Seven", "E
 var result = strList1.Intersect(strList2);
 /* Output : Four Five */
 ```
+#### 13. Union
+```Csharp
+IList<string> strList1 = new List<string>() { "One", "Two", "three", "Four" };
+IList<string> strList2 = new List<string>() { "Two", "THREE", "Four", "Five" };
+
+var result = strList1.Union(strList2);
+/* Output : One Two three THREE Four Five */
+```
