@@ -284,3 +284,9 @@ IList<Student> studentList = new List<Student>() {
 };
 var thenByResult = studentList.OrderBy(s => s.StudentName).ThenBy(s => s.Age);
 ```
+#### 18.Average
+```Csharp
+IList<int> intList = new List<int>>() { 10, 20, 30 };
+
+var avg = intList.Average();
+```
