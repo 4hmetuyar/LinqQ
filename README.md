@@ -290,3 +290,18 @@ IList<int> intList = new List<int>>() { 10, 20, 30 };
 
 var avg = intList.Average();
 ```
+#### 19.OfType
+```Csharp
+IList mixedList = new ArrayList();
+mixedList.Add(0);
+mixedList.Add("One");
+mixedList.Add("Two");
+mixedList.Add(3);
+mixedList.Add(new Student() { StudentID = 1, StudentName = "Bill" });
+
+var stringResult = from s in mixedList.OfType<string>()
+                select s;
+
+var intResult = from s in mixedList.OfType<int>()
+                select s;
+```
